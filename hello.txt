@@ -1,3 +1,0 @@
-hello
-I am Joshna
-welcome to our first Devops class
